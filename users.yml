@@ -1,5 +1,5 @@
 - name: Add user keys
-  hosts: "{{ipv4}}"
+  hosts: 34.220.97.50
   #become: true
   #become_method: sudo
   remote_user: user1
